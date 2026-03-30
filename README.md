@@ -12,7 +12,7 @@ I am a final-year Software Engineering student in Ha Noi with a strong interest 
 
 ## Core Skills
 
-- Backend: Java, Spring Boot, Spring MVC, REST API design
+- Backend: Java, Spring Boot, Spring MVC, PHP, Laravel, REST API design
 - Database: MySQL, schema design, query optimization
 - Frontend: HTML, CSS, JavaScript, React, Tailwind CSS
 - Tools: Git, GitHub, Postman
@@ -27,6 +27,8 @@ I am a final-year Software Engineering student in Ha Noi with a strong interest 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![PHP](https://img.shields.io/badge/php-777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
