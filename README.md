@@ -1,24 +1,37 @@
-# Tran Kien Cuong
-
+<!-- Header Border -->
 <div align="center">
-  <img src="./mona-happy.gif" width="200" height="200" alt="Profile image">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Hello%20World!&fontSize=70&fontColor=fe428e&fontAlign=50&fontAlignY=80&rotate=0&stroke=-&strokeWidth=0&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient" width="100%"/>
 </div>
 
-Software Engineering student focused on backend development, clean architecture, and practical full-stack delivery.
+<!-- Pacman Animation -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KienCuongSoftware/KienCuongSoftware/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KienCuongSoftware/KienCuongSoftware/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/KienCuongSoftware/KienCuongSoftware/output/pacman-contribution-graph.svg">
+  </picture>
+</div>
 
-## Professional Summary
+<!-- Header Footer -->
+<div align="center">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&text=KienCuongSoftware&fontSize=30&fontColor=fe428e&fontAlign=50&fontAlignY=20&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient" width="100%"/>
+</div>
 
-I am a final-year Software Engineering student in Ha Noi with a strong interest in building reliable web applications. My current focus is Java and Spring Boot, and I actively practice API design, database optimization, and secure authentication patterns. I enjoy learning by shipping projects and continuously refining code quality.
+<!-- Title -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## Core Skills
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=5000&color=fe428e&center=true&vCenter=true&width=800&lines=I'm+Kien+Cuong" />
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+%26+Full-Stack+Developer;Java,+Spring+Boot,+Laravel,+REST+APIs;Building+reliable+web+applications&center=true&color=fe428e&size=25&pause=5000&width=1000">
+</p>
 
-- Backend: Java, Spring Boot, Spring MVC, PHP, Laravel, REST API design
-- Database: MySQL, schema design, query optimization
-- Frontend: HTML, CSS, JavaScript, React, Tailwind CSS
-- Tools: Git, GitHub, Postman
-- Engineering practices: clean code, debugging, modular design, basic testing workflows
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## Tech Stack
+
+<div align="center">
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
@@ -34,45 +47,94 @@ I am a final-year Software Engineering student in Ha Noi with a strong interest 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-## Current Learning Focus
+</div>
 
-- Advanced Spring Boot architecture and service structuring
-- Security fundamentals for web applications
-- Database indexing, transaction handling, and performance tuning
-- Better testing habits for maintainable backend systems
-- System design fundamentals for scalable applications
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## Featured Projects
 
-### MindMeter
+| Project | Description |
+| --- | --- |
+| [**Vibely**](https://github.com/KienCuongSoftware/Vibely) | Full-stack short video social platform inspired by TikTok — Spring Boot, React, PostgreSQL, Redis, FFmpeg, AWS S3 |
+| [**MindMeter**](https://github.com/KienCuongSoftware/MindMeter) | Mental health assessment platform with AI chatbot, appointment booking, psychological tests (DASS-21/42, BDI, RADS, EPDS, SAS), and secure payments |
 
-Repository: [MindMeter](https://github.com/KienCuongSoftware/MindMeter)  
-An intelligent mental health assessment platform with chatbot support and workflow features for students and counselors.
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### MilkTea
+<!-- Activity Graph -->
+<div align="center">
 
-Repository: [MilkTea](https://github.com/KienCuongSoftware/MilkTea)  
-A Spring MVC + JSP + MySQL management system for a milk tea business, including role-based access and operational modules.
+<a href="https://github-readme-activity-graph.vercel.app/graph?username=KienCuongSoftware">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=KienCuongSoftware&theme=radical&bg_color=0d1117&color=fe428e&line=a9fef7&point=fe428e&hide_border=true">
+</a>
 
-### NovaShop
+<a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KienCuongSoftware">
+  <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KienCuongSoftware&theme=radical"/>
+</a>
 
-Repository: [NovaShop](https://github.com/KienCuongSoftware/NovaShop)  
-An e-commerce demo built with Laravel 12 featuring product/category management, image upload, and RESTful resource controllers.
+<table>
+  <tr>
+    <td>
+      <a href="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KienCuongSoftware">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KienCuongSoftware&theme=radical"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KienCuongSoftware">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KienCuongSoftware&theme=radical"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KienCuongSoftware">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KienCuongSoftware&theme=radical"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KienCuongSoftware">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KienCuongSoftware&theme=radical"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
-## GitHub Overview
+<a href="https://github-trophies.vercel.app/?username=KienCuongSoftware" target="_blank">
+  <img src="https://github-trophies.vercel.app/?username=KienCuongSoftware&theme=radical&margin-w=4&margin-h=4">
+</a>
 
-![](https://github-readme-stats.vercel.app/api?username=KienCuongSoftware&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com?user=KienCuongSoftware&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KienCuongSoftware&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+</div>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KienCuongSoftware&theme=github_dark)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KienCuongSoftware&theme=radical&hide_border=false&include_all_commits=true&count_private=false" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KienCuongSoftware&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" /><br/>
+  <img src="https://streak-stats.demolab.com?user=KienCuongSoftware&theme=radical&hide_border=false" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## Contact
 
-- Email: [kiencuongsoftware@gmail.com](mailto:kiencuongsoftware@gmail.com)
-- LinkedIn: [trankiencuong2004](https://www.linkedin.com/in/trankiencuong2004/)
-- Facebook: [KienCuong2003](https://www.facebook.com/KienCuong2003)
+<div align="center">
 
-## Career Goal
+[![Email](https://img.shields.io/badge/Email-kiencuongsoftware@gmail.com-fe428e?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kiencuongsoftware@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-trankiencuong2004-fe428e?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/trankiencuong2004/)
+[![Facebook](https://img.shields.io/badge/Facebook-KienCuong2003-fe428e?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/KienCuong2003)
+[![GitHub](https://img.shields.io/badge/GitHub-KienCuongSoftware-fe428e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KienCuongSoftware)
 
-My goal is to become a strong backend and full-stack engineer who can design clean systems, build reliable APIs, and collaborate effectively in product teams.
+</div>
+
+<!-- Snake Animation -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/KienCuongSoftware/KienCuongSoftware/output/snake.svg" alt="Snake animation" />
+</div>
+
+<!-- Profile Views -->
+<div align="center">
+  <p align="center">
+    <img
+      src="https://komarev.com/ghpvc/?username=KienCuongSoftware&label=Profile%20views&color=fe428e&style=flat"
+      alt="KienCuongSoftware"
+      width="200"
+    />
+  </p>
+</div>
